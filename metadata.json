@@ -1,0 +1,5 @@
+{
+  "name": "SentinelMind Shield",
+  "description": "AI-powered multi-layered threat intelligence system for detecting phishing, malicious URLs, and social engineering.",
+  "requestFramePermissions": []
+}
